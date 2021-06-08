@@ -1,0 +1,13 @@
+D:\uzdiz\iilisevic_zadaca_3\iilisevic_zadaca_3\obj\Debug\iilisevic_zadaca_3.csproj.CoreCompileInputs.cache
+D:\uzdiz\iilisevic_zadaca_3\iilisevic_zadaca_3\bin\Debug\iilisevic_zadaca_3.exe.config
+D:\uzdiz\iilisevic_zadaca_3\iilisevic_zadaca_3\bin\Debug\iilisevic_zadaca_3.exe
+D:\uzdiz\iilisevic_zadaca_3\iilisevic_zadaca_3\bin\Debug\iilisevic_zadaca_3.pdb
+D:\uzdiz\iilisevic_zadaca_3\iilisevic_zadaca_3\obj\Debug\iilisevic_zadaca_3.exe
+D:\uzdiz\iilisevic_zadaca_3\iilisevic_zadaca_3\obj\Debug\iilisevic_zadaca_3.pdb
+D:\uzdiz\Mvc-try\iilisevic_zadaca_3\iilisevic_zadaca_3\bin\Debug\iilisevic_zadaca_3.exe.config
+D:\uzdiz\Mvc-try\iilisevic_zadaca_3\iilisevic_zadaca_3\bin\Debug\iilisevic_zadaca_3.exe
+D:\uzdiz\Mvc-try\iilisevic_zadaca_3\iilisevic_zadaca_3\bin\Debug\iilisevic_zadaca_3.pdb
+D:\uzdiz\Mvc-try\iilisevic_zadaca_3\iilisevic_zadaca_3\obj\Debug\iilisevic_zadaca_3.csproj.CoreCompileInputs.cache
+D:\uzdiz\Mvc-try\iilisevic_zadaca_3\iilisevic_zadaca_3\obj\Debug\iilisevic_zadaca_3.exe
+D:\uzdiz\Mvc-try\iilisevic_zadaca_3\iilisevic_zadaca_3\obj\Debug\iilisevic_zadaca_3.pdb
+D:\uzdiz\Mvc-try\iilisevic_zadaca_3\iilisevic_zadaca_3\obj\Debug\iilisevic_zadaca_3.csprojAssemblyReference.cache
